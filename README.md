@@ -4,9 +4,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Hangman game(Python)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
-  - [POS System(App](https://github.com/JakubLuczak05/Punkt-Sprzeda-y/blob/main/README.md)
-  - [Number Guessing(Game)](https://github.com/JakubLuczak05/Zgadywanie-liczb)
+  - [Hangman game(Python)](https://github.com/JakubLuczak0505/Hangman-Game)
+  - [POS System(App](https://github.com/JakubLuczak0505/POS-System)
+  - [Number Guessing(Game)](https://github.com/JakubLuczak0505/Number_Guessing_Game)
 
 <h2>👨‍💻 Database Projects:</h2>
 
