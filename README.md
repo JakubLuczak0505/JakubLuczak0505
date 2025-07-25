@@ -19,7 +19,7 @@
 <h2>👨‍💻 Web Development Projects:</h2> 
 
 - <b>HTML, CSS, JavaScript</b>
-  - [Helloheni(Website)](https://github.com/JakubLuczak05/Helloheni-Strona)
+  - [Helloheni(Website)](https://github.com/JakubLuczak0505/HelloHeni)
    
 <h2>👨‍💻 2D & 3D Animation and Graphic Design:</h2>
 
